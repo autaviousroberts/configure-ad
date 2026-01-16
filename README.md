@@ -27,8 +27,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Step 1
 - Step 2
-- Step 3
-- Step 4
+
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -40,17 +39,9 @@ This screenshot shows the Active Directory Users and Computers console open on t
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/716ea61d-f208-4fb6-a94b-2e448b1a93ec" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+This screenshot shows the Active Directory Users and Computers (ADUC) console open on a Windows Server domain controller during the creation and management of Active Directory objects. The domain mydomain.com is expanded in the left pane, displaying several Organizational Units such as ADMINS, CLIENTS, EMPLOYEES, Computers, and Users, which are used to logically organize accounts and resources. In the right pane, a list of user accounts is visible, indicating that multiple domain users have been created. This stage demonstrates the administrative process of setting up Active Directory by defining a domain structure and adding user objects, which is essential for centralized authentication, authorization, and management of users within a Windows network environment.</p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
