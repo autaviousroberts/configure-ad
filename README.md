@@ -33,11 +33,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/d81371a3-0e7e-4b11-942a-90298d7ec201" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+This screenshot shows the Active Directory Users and Computers console open on the domain controller, displaying the properties of a domain user account. The “Member Of” tab is selected, showing that the user is a member of the Domain Users group, which is the default security group assigned to standard users in an Active Directory domain. This confirms that the user account was successfully created and properly integrated into the domain. The presence of organizational units in the directory structure also demonstrates the use of Active Directory best practices for organizing users and managing permissions within the mydomain.com environment.</p>
 <br />
 
 <p>
